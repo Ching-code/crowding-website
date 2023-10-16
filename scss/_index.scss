@@ -1,0 +1,112 @@
+.logo {
+    background-image: url(../img/logo.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 111px;
+    height: 40px;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.imgAdp {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.inputBgColor {
+    background-color: #f7f7f7;
+}
+
+.goodsRadius {
+    border-radius: 5%;
+}
+
+.fs-sm-14 {
+    font-size: 0.875rem;
+}
+
+.fs-sm-12 {
+    font-size: 0.75rem;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn:visited {
+    outline: none;
+    box-shadow: none !important;
+}
+
+.btn-spon {
+    color: #636057;
+    background-color: #ffdf65;
+    &:hover {
+        background-color: #ff785e;
+        border-color: #ff785e;
+        color: white;
+    }
+}
+
+.btn-danwarn {
+    &:hover {
+        background-color: #ffdf65;
+        border-color: #ffdf65;
+        i {
+            color: #ff785e;
+        }
+    }
+}
+
+.nav .active {
+    font-weight: bold;
+    border-bottom: 2px solid #ffdf65;
+}
+
+.sec-spon {
+    height: calc(100vh - 54px);
+    overflow: auto;
+    position: sticky;
+    top: 54px;
+}
+
+.w-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.spon-badgeColor {
+    background-color: #e8e8d8;
+}
+
+.footer-bg {
+    background-color: #494846;
+}
+
+.accordion-button {
+    border: 1px solid #e5e5e5;
+    &:focus {
+        border-color: #e5e5e5;
+        box-shadow: none;
+    }
+}
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #fff;
+    box-shadow: none;
+}
+
+.accordion-body {
+    border: 1px solid #e5e5e5;
+}
+
+.accordion-flush .accordion-item {
+    border-radius: 4px;
+}
+
+.commentSty {
+    color: #494846;
+    background-color: #fefefe;
+}
