@@ -2,7 +2,7 @@
 
 [募資網站切版練習](https://ching-code.github.io/crowding-website/)
 
-![募資網站](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaB4m5NvBBcvB4K2U1MX7n_ap-Y6i7kqjmxPigqgxj3twOTqG8mBpP4lvHTtZEMnAit68qDMwCAfmYJAuMdaL1IODEPRHw=w1094-h677)
+![募資網站](https://drive.usercontent.google.com/u/0/uc?id=1BU0exjilmK7uuL7acch2FmeYGt3wvszT&export=download)
 
 ## 使用技術
 
